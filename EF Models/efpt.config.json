@@ -1,0 +1,51 @@
+﻿{
+   "ContextClassName": "SampleContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "EF_Models",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Activity]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ActivityExecutionStatus]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ActivityExecutionStatusEvent]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[ActivityInstance]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[AddedActivity]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[CompletedScope]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[DefaultTrackingProfile]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNodaTime": false,
+   "UseSpatial": false,
+   "UseStoredProcedures": false
+}
