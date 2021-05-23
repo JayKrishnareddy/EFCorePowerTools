@@ -10,3 +10,5 @@
 If you want to learn more about this Article 👇🏻
 
 [**C# Corner**](https://www.c-sharpcorner.com/article/ef-core-power-tools-in-asp-net-core-api/ "C# Corner")
+
+[**Medium**](https://jaykrishnareddy.medium.com/entity-framework-core-power-tools-in-asp-net-core-web-api-a1e7dee56534 "Medium")
